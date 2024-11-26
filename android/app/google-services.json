@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526148605420",
+    "project_id": "mobilepraktikum-e0650",
+    "storage_bucket": "mobilepraktikum-e0650.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526148605420:android:670459a1a2044ab0121cc9",
+        "android_client_info": {
+          "package_name": "com.mobilepraktikum.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE4OxqQfNA99-7VpnvPq2H594Lnnz1Gt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
